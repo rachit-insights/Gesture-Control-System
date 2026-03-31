@@ -36,11 +36,8 @@ Gesture-Control-System/
    git clone https://github.com/rachit-insights/Gesture-Control-System.git
    cd Gesture-Control-System
    ```
-2. Create a Virtual Environment (Optional but recommended):
-   ```bash
-python -m venv venv
-venv\Scripts\activate
-   ```
+2. Create a Virtual Environment 
+
 3. Install Dependencies
    
 
